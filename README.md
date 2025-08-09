@@ -1,11 +1,8 @@
-- 👋 Hi, I’m Hussein Beshir
-- 👀 I’m planning on big ideas for Ethiopia on entertainment sector 
-- 🌱 I’m currently learning at ASTU...
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can check my social links to reach me!
+# 👋 Hi, I’m Hussein Beshir
 
-
-<!---
-HussooB/HussooB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 Passionate about building impactful tech solutions — especially big ideas for Ethiopia’s entertainment sector.
+- 🎓 Currently studying Software Engineering at ASTU and actively learning **JavaScript**, **Node.js**, **Express.js**, and **PostgreSQL**.
+- 💻 Experienced with **MERN** and **PERN** stacks, with hands-on projects like **AnimeChat** and **CSEC Portal Backend**.
+- 🌱 Always exploring new technologies to grow as a full-stack developer.
+- 🤝 Looking to collaborate on innovative web apps, chatbots, and backend systems.
+- 📫 Reach me through my [LinkedIn](https://linkedin.com/in/husseinbeshir) or check out my projects here on GitHub!
